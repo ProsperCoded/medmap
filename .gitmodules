@@ -1,0 +1,6 @@
+[submodule "medmap-frontend"]
+	path = medmap-frontend
+	url = https://github.com/ProsperCoded/medmap-frontend
+[submodule "medmap-backend"]
+	path = medmap-backend
+	url = https://github.com/ProsperCoded/medmap-backend
