@@ -4,3 +4,6 @@
 [submodule "medmap-backend"]
 	path = medmap-backend
 	url = https://github.com/ProsperCoded/medmap-backend
+[submodule "medmap-pitch-site"]
+	path = medmap-pitch-site
+	url = https://github.com/ProsperCoded/medmap-pitch-site
